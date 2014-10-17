@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jud:home|Door43 (jud)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jud|d43-jud repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jud/archive/master.zip|d43-jud.zip]]
+
+**Recent Changes**
+{{changes>ns = jud}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jud|Ethnologue data]]
+
